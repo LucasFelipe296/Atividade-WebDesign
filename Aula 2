@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="PT-BR">
+<head>
+    <title>Aula 02</title>
+
+    <h1><b>Um</b></h1>
+    <h2><u>Dois</u></h2>
+    <h3><i>Três</i></h3>
+    <h4><sup>Quatro</sup></h4>
+    <h5><sub>Cinco</sub></h5>
+    <h6>Seis</h6>
+
+    <hr>
+
+    <p>Parágrafo um</p>
+    <p>Parágrafo Dois</p>
+
+    <hr>
+
+    <h1>Músicas Clássicas</h1>
+
+
+        <h2><b>Beethoven: 5th Symphony</b></h2>
+        <p>Música de suspense e terror clássica. Aparecia no Mais Você quando a Ana Maria Braga provava uma comida. Apareceu também no filme: <h6>“Se eu fosse você”</h6> Entre outras participações.</p>
+
+        <h2><b>Tchaikovsky: 1812 Overture</b></h2>
+        <p>Música de fanfarra, sinceramente, acho que não é tão conhecida assim, mas em todo caso está aqui marcando presença.</p>
+
+    <hr>            
+
+    <li>Aguia de marabá</li>
+        <ol>Proximos jogos</ol>
+        <a>15/03</a>
+        <a>18/03</a>
+        <a>20/03</a>
+        
+
+</head>
+<body>
+    
+</body>
+</html>
